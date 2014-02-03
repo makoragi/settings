@@ -1,0 +1,22 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "MeiryoKe_Gothic",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"line_padding_top": 3,
+	"rulers":
+	[
+		72
+	],
+	"scroll_past_end": true,
+	"theme": "Default.sublime-theme",
+	"word_wrap": true,
+	"wrap_width": 0
+}
